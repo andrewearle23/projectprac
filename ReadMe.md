@@ -9,8 +9,9 @@ The goal of this project is to get comfortable with:
 - Collaborating through GitHub
 
 ## 🛠️ Technologies Used
-- Git
-- GitHub
+- git-scm.com
+- github.com
 - Markdown
+
 
 
